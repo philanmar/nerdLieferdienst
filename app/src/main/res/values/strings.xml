@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Nerd Lieferdienst</string>
+    <string name="app_title">Lieferdienst für Nerds</string>
+    <string name="pizza">Pizza</string>
+    <string name="was_m_chtest_du_deiner_bestellung_hinzuf_gen">Was möchtest du deiner Bestellung hinzufügen?</string>
+    <string name="nudelgerichte">Nudelgerichte</string>
+    <string name="warenkorb">Warenkorb</string>
+
+
+    <string-array name="pizzaTypes">
+        <item>Pizza Auswählen</item>
+        <item>Pizza Salami</item>
+        <item>Pizza Margarita</item>
+        <item>Pizza Diavolo</item>
+    </string-array>
+
+    <string-array name="pizzaIngredients">
+        <item>Schinken</item>
+        <item>Brokkoli</item>
+        <item>Jalapenos</item>
+    </string-array>
+
+    <string-array name="noodleTypes">
+        <item>Bandnudeln</item>
+        <item>Spaghetti</item>
+        <item>Maccaroni</item>
+    </string-array>
+
+    <string-array name="noodleSauces">
+        <item>Napoli</item>
+        <item>Carbonara</item>
+        <item>Gorgonzola e Spinaci</item>
+    </string-array>
+
+    <string-array name="garnish">
+        <item>Nichts</item>
+        <item>Salat</item>
+        <item>Cookie</item>
+    </string-array>
+
+</resources>
