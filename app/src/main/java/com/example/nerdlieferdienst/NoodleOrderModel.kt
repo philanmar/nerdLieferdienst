@@ -1,3 +1,3 @@
 package com.example.nerdlieferdienst
 
-class NoodleOrderModel internal constructor(var noodleType: String, var chosenSauce: String, garnish: Int, quantity: Int)
+class NoodleOrderModel internal constructor(var noodleType: String, var chosenSauce: Int, var garnish: Int, var quantity: Int)
